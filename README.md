@@ -27,6 +27,7 @@
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=vakal-y&style=flat-square&color=ff69b4" alt=""/>
 </div>
+---
 <div id="tools" align="center">
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
 
