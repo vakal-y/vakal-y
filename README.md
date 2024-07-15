@@ -10,6 +10,6 @@
     <img src="https://img.shields.io/badge/Instagram-violet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=vakal-y&style=flat-square&color=pink" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=vakal-y&style=flat-square&color=ff69b4" alt=""/>
 </div>
 
