@@ -1,13 +1,17 @@
 <div id="header" align="center">
   <h1>Hi there 👋</h1>
-  <h2>My name is Julie, I am a Web Developer :woman_technologist:</h2>
+  <h2> :woman_technologist:My name is Julie, I am a Web Developer :space_invader:</h2>
 </div>
 <p>
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  
+- :mechanical_arm: I develop front-end for web applications using React and TypeScript.
 
-- :seedling: Exploring Technical Content Writing.
+- :heart_decoration: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :houses: In my free time, I design architecture for private houses.
+
+- :ocean: Living on the southern coast of the Black Sea.
+
 </p>
   <div id="badges" align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/julie-vakal/)">
