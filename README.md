@@ -27,9 +27,9 @@
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=vakal-y&style=flat-square&color=ff69b4" alt=""/>
 </div>
-  ---
+<div id="tools" align="center">
+<h2>:hammer_and_wrench: Languages and Tools :</h2>
 
-### :hammer_and_wrench: Languages and Tools :
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -45,6 +45,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+</div>
 
 
 
