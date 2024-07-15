@@ -2,17 +2,6 @@
   <h1>Hi there 👋</h1>
   <h2> :woman_technologist:My name is Julie, I am a Web Developer :space_invader:</h2>
 </div>
-<p>
-  
-- :mechanical_arm: I develop front-end for web applications using React and TypeScript.
-
-- :heart_decoration: Exploring Technical Content Writing.
-
-- :houses: In my free time, I design architecture for private houses.
-
-- :ocean: Living on the southern coast of the Black Sea.
-
-</p>
   <div id="badges" align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/julie-vakal/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -27,6 +16,18 @@
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=vakal-y&style=flat-square&color=ff69b4" alt=""/>
 </div>
+<p>
+  
+- :mechanical_arm: I develop front-end for web applications using React and TypeScript.
+
+- :heart_decoration: Exploring Technical Content Writing.
+
+- :houses: In my free time, I design architecture for private houses.
+
+- :ocean: Living on the southern coast of the Black Sea.
+
+</p>
+
 <div id="tools" align="center">
 <h2> :hammer_and_wrench: Languages and Tools :</h2>
 
