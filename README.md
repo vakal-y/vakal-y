@@ -1,15 +1,14 @@
-
 <div id="header" align="center">
   <h1>Hi there 👋</h1>
   <h2>My name is Julie, I am a Web Developer :woman_technologist:</h2>
 <p>- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+</div>
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
-
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)</p>
-  <div id="badges">
+</p>
+  <div id="badges" align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/julie-vakal/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -21,7 +20,10 @@
   </a>
 </div>
 ---
+<div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=vakal-y&style=flat-square&color=ff69b4" alt=""/>
 </div>
+  
+
 
 
