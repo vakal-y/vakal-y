@@ -1,8 +1,9 @@
 <div id="header" align="center">
   <h1>Hi there 👋</h1>
   <h2>My name is Julie, I am a Web Developer :woman_technologist:</h2>
-<p>- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 </div>
+<p>
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -19,7 +20,6 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
----
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=vakal-y&style=flat-square&color=ff69b4" alt=""/>
 </div>
