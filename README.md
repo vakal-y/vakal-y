@@ -10,5 +10,6 @@
     <img src="https://img.shields.io/badge/Instagram-violet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+  <img src="https://vakal-y.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
