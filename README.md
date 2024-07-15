@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <h1>Hi there 👋</h1>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBuY2p1MXh2bXJtdTJucmM1YnM5M3g0a2txNzR5ZmEyd25mbmRpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KYJYayTYbP6Zg72ef1/giphy.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBuY2p1MXh2bXJtdTJucmM1YnM5M3g0a2txNzR5ZmEyd25mbmRpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KYJYayTYbP6Zg72ef1/giphy.gif" width="100" align="center"/>
  :woman_technologist: About Me :
   I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
   <div id="badges">
