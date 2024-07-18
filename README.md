@@ -18,11 +18,11 @@
 </div>
 <p>
   
-- :mechanical_arm: I develop front-end for web applications using React and TypeScript.
+- :mechanical_arm: Developing front-end for web applications using React and TypeScript.
 
 - :heart_decoration: Exploring Technical Content Writing.
 
-- :houses: In my free time, I design architecture for private houses.
+- :houses: In free time, designing architecture for private houses.
 
 - :ocean: Living on the southern coast of the Black Sea.
 
