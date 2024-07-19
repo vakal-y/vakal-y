@@ -47,11 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg"  title="Storybook" alt="Storybook" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg"  title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
-  
-  
-  
-  
 </div>
+---
 
-
-
+### :fire: My Stats :
