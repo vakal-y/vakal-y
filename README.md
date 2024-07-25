@@ -55,4 +55,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vakal-y&layout=compact&theme=vision-friendly-dark)" alt="Top of Languages"></a>
 </div>
 
+<div id="languages" align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vakal-y&layout=compact&theme=vision-friendly-dark)" alt="Top of Languages"></a>
+</div>
+
 
