@@ -48,6 +48,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg"  title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
 </div>
----
 
-### :fire: My Stats :
+<div id="stats" align="center">
+<h2>:fire: My Stats :</h2>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=vakal-y&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+</div>
+
