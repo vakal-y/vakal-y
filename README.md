@@ -51,6 +51,6 @@
 
 <div id="stats" align="center">
 <h2>:fire: My Stats :</h2>
-  <div>[![GitHub Streak](https://streak-stats.demolab.com?user=vakal-y)](https://git.io/streak-stats)</div>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vakal-y" alt="GitHub Streak" /></a>
 </div>
 
