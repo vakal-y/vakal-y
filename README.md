@@ -51,7 +51,8 @@
 
 <div id="stats" align="center">
 <h2>:fire: My Stats :</h2>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vakal-y&theme=cobalt&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vakal-y&theme=cobalt&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vakal-y&layout=compact&theme=vision-friendly-dark)" alt="Top of Languages"></a>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
