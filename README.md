@@ -3,13 +3,13 @@
   <h2> :woman_technologist:My name is Julie, I am a Web Developer :space_invader:</h2>
 </div>
   <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/julie-vakal/)">
+  <a href="https://www.linkedin.com/in/julie-vakal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-instagram-URL](https://www.instagram.com/vakal.y/)">
+  <a href="https://www.instagram.com/vakal.y/">
     <img src="https://img.shields.io/badge/Instagram-violet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="[your-telegram-URL](https://t.me/@vakal_y">
+  <a href="https://t.me/@vakal_y">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
